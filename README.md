@@ -7,7 +7,7 @@ A la place des combats ont a des minijeu donc voici le mien.<br>
 
 ## Installation
 
-Télécharger les 5 fichiers et double cliquer sur le fichier findnumber.html <br> 
+Télécharger les 3 fichiers et double cliquer sur le fichier findnumber.html <br> 
 
 ### But
 - Apprendre à mieux utiliser le HTML, CSS et Javascript.
