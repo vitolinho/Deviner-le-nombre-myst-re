@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Trouvez le nombre mystère 🔮</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="findnumber.css">
+</head>
+<body>
+    <h1>Trouvez le nombre mystère compris entre 1 et 100 🔮</h1>
+    <p Class="Lien">
+        <a href="findnumberrules.html">Voir les règles du jeu 📃</a>
+    </p>
+    <input id="input-nombre" type="number" min="1" max="100" step="1">
+    <button id="button-proposer">Proposer 🤞</button><br>
+    <div id="aide">
+        <span class="petit" id="bas">1 📈</span>
+        <span id="milieu">🔮</span>
+        <span class="grand" id="haut">100 📉</span>
+    </div>
+    <div class="resultat">
+        <p class="historique">Historique des essais:</p>
+    <div id="container" class="container">
+    </div>
+    <!-- JS -->
+    <script src="findnumber.js"></script>
+</body>
+</html>

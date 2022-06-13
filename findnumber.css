@@ -1,0 +1,66 @@
+body {
+    background-color: #333;
+    color: white;
+    margin-top: 60px;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.Lien{
+    text-align: center;
+}
+
+a{
+    color:white;
+}
+
+input {
+    display: block;
+    margin: 1em auto; 
+    height: 1.5 em;
+    text-align: center;
+}
+
+input:invalid {
+    background-color: red;
+    border: 1px solid #dd2d2d;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    background-color: blueviolet;
+}
+
+.resultat {
+    text-align: center;
+    margin: 1em 0;
+}
+
+.petit,
+.grand {
+    padding: 0 20px;
+}
+
+.container {
+    font-size: 12px;
+    text-align: left;
+    width: 300px;
+    margin: 0 auto;
+    font-style: italic;
+}
+
+p{
+    font-size: 16px;
+    text-decoration: underline;
+    text-align: left;
+    width: 300px;
+    margin: 0 auto;
+}
+
+#aide{
+    text-align: center;
+}
